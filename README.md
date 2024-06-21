@@ -49,7 +49,7 @@ This is a full-stack food delivery application built using the MERN stack (Mongo
  - "/api/food/list"
  - "/api/food/remove"
 
-    **Food**
+    **order**
  - "/api/order/place"
  - "/api/order/verify"
  - "/api/order/usersorders"
