@@ -31,8 +31,8 @@ This is a full-stack food delivery application built using the MERN stack (Mongo
 
  ## Backend EndPoints
 
- ### base Url
- -http://localhost:5000
+ ### backend base Url
+ -local : [http://localhost:5000] || hosted: (https://foodbackend-m045.onrender.com/)
 
  ### Api endpoints
   **Auth**
